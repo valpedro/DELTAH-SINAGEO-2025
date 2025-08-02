@@ -18,4 +18,4 @@ Run the notebooks with the "CSDMS" Jupyter kernel instead of the default "Python
 
 [jhub]: https://csdms.colorado.edu/wiki/JupyterHub
 [badge]: https://img.shields.io/badge/Run%20on-EarthscapeHub-orange
-[jhub-link]: https://explore.openearthscape.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcsdms%2Fivy&urlpath=lab%2Ftree%2Fivy%2FREADME.ipynb%3Fautodecode&branch=main
+[jhub-link]: https://explore.openearthscape.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fvalpedro%2FDELTAH-SINAGEO-2025&urlpath=lab%2Ftree%2FDELTAH-SINAGEO-2025%2F%3Fautodecode&branch=main
