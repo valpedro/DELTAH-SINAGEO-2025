@@ -2,7 +2,7 @@
 
 Jupyter notebooks for DELTA H 2025.
 
-# Run on EarthscapeHub
+## Run on EarthscapeHub
 
 All the notebooks can be run on [EarthscapeHub][jhub].
 Click this button:
